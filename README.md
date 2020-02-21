@@ -9,3 +9,4 @@ this project supports multi faces detection
 works for real time detection
 support scale invariant and robust 
 Link for a video for illustration would be here 
+https://youtu.be/CmDURiNTG40
